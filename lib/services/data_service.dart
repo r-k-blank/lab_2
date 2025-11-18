@@ -1,5 +1,3 @@
-// services/data_service.dart
-
 import 'dart:convert';
 import 'package:flutter/foundation.dart'; // Importează pentru debugPrint
 import 'package:flutter/services.dart' show rootBundle;

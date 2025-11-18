@@ -11,8 +11,7 @@ import '../list_items/category_chip_item.dart';
 import '../list_items/courses_section_item.dart';
 import '../list_items/course_card_item.dart';
 import '../resources/app_strings.dart';
-// import '../data/app_data.dart'; // NU MAI AVEM NEVOIE DE ACEST IMPORT
-import '../services/data_service.dart'; // IMPORTĂM SERVICIUL
+import '../services/data_service.dart'; 
 
 class HomeController extends GetxController {
   // Obținem instanța serviciului de date din GetX
